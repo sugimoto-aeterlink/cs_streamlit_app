@@ -1,0 +1,17 @@
+streamlit
+pymysql
+pandas
+polars
+numpy
+matplotlib
+japanize-matplotlib
+beautifulsoup4
+jpholiday
+google-generativeai
+pillow
+pytz
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+reportlab
+markdown
